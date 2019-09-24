@@ -1,0 +1,6 @@
+.DS_Store
+/.vscode/
+/build/
+/build_xcode/
+/googletest/
+/run_dir/
